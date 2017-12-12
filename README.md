@@ -26,17 +26,17 @@ whether user found it or he missed it.
 
 **Snapshots taken:**
 
-<img src="./media/image1.png" width="601" height="338" />
+<kbd><img src="./media/image1.png" width="601" height="338" /></kbd>
 
-<img src="./media/image2.png" width="601" height="338" />
+<kbd><img src="./media/image2.png" width="601" height="338" /></kbd>
 
 Rules page:
 
-<img src="./media/image3.png" width="601" height="338" />
+<kbd><img src="./media/image3.png" width="601" height="338" /></kbd>
 
-<img src="./media/image4.png" width="601" height="338" />
+<kbd><img src="./media/image4.png" width="601" height="338" /></kbd>
 
-<img src="./media/image5.png" width="373" height="378" />
+<kbd><img src="./media/image5.png" width="373" height="378" /></kbd>
 
 References
 
